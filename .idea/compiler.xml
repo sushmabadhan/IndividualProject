@@ -9,5 +9,8 @@
         <module name="IndividualProject" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EpamIndividualProject" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
